@@ -1,2 +1,11 @@
 # sqlify
-OOP in SQL!
+###Object oriented programming in SQL! 
+
+
+Includes:
+
+- Classes
+- Modules
+- Objects
+- Constants
+- Static Typing
