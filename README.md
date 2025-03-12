@@ -8,4 +8,4 @@ Includes:
 - Modules
 - Objects
 - Constants
-- Static Typing
+- All of SQL's other features!
