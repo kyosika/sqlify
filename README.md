@@ -3,9 +3,6 @@
 
 
 Includes:
-
-- Classes
-- Modules
 - Objects
 - Constants
 - All of SQL's other features!
